@@ -6,3 +6,5 @@ Mod değişimi en başta hem com bağlantısı ile alınır. Sonraki anlık mod 
 
 çift-anascript.py -
 Anascriptarayüz ile aynı işlevi gerçekletirir . Bu betik çift arduino kullanılacağı zaman sistemi başlatacak betiktir.Anlık mod geçişi hem arayüzden hem arduinodan yapılabilir.
+İLETİŞİM
+arayüz ile arduino1 arasında mod değişim  verisi led yanması 
