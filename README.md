@@ -1,5 +1,5 @@
 AnaScriptArayüz -
-Veriyi sadece arayüzden alır com bağlantısı açmaz mod değişimleri arayüzden yapılıyor . Mod değişimlerinde ortak belleği temizleyerek değişim scriptlerini çağırır
+Veriyi sadece arayüzden alır com bağlantısı açmaz mod değişimleri arayüzden yapılıyor . Mod değişimlerinde ortak belleği temizleyerek değişim scriptlerini çağırır. Kendi çıktısını ve alt scriptlerin çıktısını arayüze gönderebilir log için
 
 HavaSavunmaAnaScript -
 Mod değişimi en başta hem com bağlantısı ile alınır. Sonraki anlık mod değişimleri arayüzden sağlanır.  Mod değişimlerinde ortak belleği temizleyerek değişim scriptlerini çağırır
